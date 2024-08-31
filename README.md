@@ -1,6 +1,4 @@
-<p dir="auto">👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>
-👩🏻‍🎓 Studied <a href="https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv" rel="nofollow">Computer Science</a> at the University of Otago, New Zealand<br>
-🎨 Making videos about Computer Science, tech, and productivity on <a href="https://www.youtube.com/c/MagdelineHuang" rel="nofollow">YouTube</a><br>
-🌷 #learninginpublic in my <a href="https://magdelinehuang.com/" rel="nofollow">digital garden</a><br>
-💭 Currently learning about data analytics and !<a href="https://pudding.cool/2018/08/pockets/" rel="nofollow">dataviz</a><br></p>
+<p>>My passion for technology, nature and physics drives me to bridge the gap between growing web technologies and end-users, making them accessible and easy to use. By integrating elements of physics and the natural world into my work, I create digital experiences that blend the beauty of nature, the complexity of physics, and the power of code.
+
+Let's collaborate and build something amazing together!</p>
 
