@@ -1,4 +1,13 @@
-<p>My passion for technology, nature and physics drives me to bridge the gap between growing web technologies and end-users, making them accessible and easy to use. By integrating elements of physics and the natural world into my work, I create digital experiences that blend the beauty of nature, the complexity of physics, and the power of code.
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Let's collaborate and build something amazing together!</p>
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
