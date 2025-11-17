@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **abhipsap36@gmail.com** If you have job for me (jk you can email me ). 😊
 
 - 🔭 **I’m currently working on:** BNP Paribas
-- 🌱 **I’m currently learning:** MERN(MongoDB,ExpressJS,React,NodeJS)
+- 🌱 **I’m currently learning:** JAVA ( I am a C++ developer)
 - 👯 **I’m looking to collaborate on:** Machine Learning Project or maybe Deep Learning also i can do
 - 🤔 **I’m looking for help with:** I open for OpenSource Project 
 - 💬 **Ask me about:** Chatpata Talks and brainrot meme reference
