@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Abhipsa Pradhan
 **A passionate Software Engineer || DevOps Engineer || Data Science Enthusiastic**
 
-Email Me 👉 ✉️ **abhipsap36@gmail.com** If you have job for me (jk you can email me ). 😊
+Email Me 👉 ✉️ **abhipsap36@gmail.com** If you have job for me . 
 
 -  **I’m currently working on:** BNP Paribas
 -  **I’m currently learning:** JAVA ( I am a C++ developer)
