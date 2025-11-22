@@ -3,14 +3,14 @@
 
 Email Me 👉 ✉️ **abhipsap36@gmail.com** If you have job for me (jk you can email me ). 😊
 
-- 🔭 **I’m currently working on:** BNP Paribas
-- 🌱 **I’m currently learning:** JAVA ( I am a C++ developer)
-- 👯 **I’m looking to collaborate on:** Machine Learning Project or maybe Deep Learning also i can do
-- 🤔 **I’m looking for help with:** I open for OpenSource Project 
-- 💬 **Ask me about:** Chatpata Talks and brainrot meme reference
-- 📫 **How to reach me:** abhipsap36@gmail.com
-- 😄 **Pronouns:** Beep Beep
-- ⚡ **Fun fact:**I can smell snakes and piss at every cat in street :)
+-  **I’m currently working on:** BNP Paribas
+-  **I’m currently learning:** JAVA ( I am a C++ developer)
+-  **I’m looking to collaborate on:** Machine Learning Project or maybe Deep Learning also i can do
+-  **I’m looking for help with:** I open for OpenSource Project 
+-  **Ask me about:** Chatpata Talks and brainrot meme reference
+-  **How to reach me:** abhipsap36@gmail.com
+-  **Pronouns:** Beep Beep
+-  **Fun fact:**I can smell snakes and piss at every cat in street :)
 
 
 <!-- Snake Game Repo View -->
